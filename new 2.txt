@@ -1,0 +1,6 @@
+Maven
+http://gutsev.com/install-maven-configurate-repository/
+https://maven.apache.org/
+XML
+http://uroci.net/urok/2044/%D0%92%D1%8A%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-XML.html
+https://www.w3schools.com/xml/
